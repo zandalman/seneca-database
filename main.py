@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 
 # import classes and functions
-from SQLAlchemy_functions import *
+from functions import *
 
 # check SQLAlchemy version
 if StrictVersion(sqlalchemy.__version__) < '1.3':

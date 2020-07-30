@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 
 # import classess
-from SQLAlchemy_classes2 import *
+from classes import *
 
 
 @contextmanager
